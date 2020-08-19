@@ -36,7 +36,8 @@ public class Example_If_else_if {
         }else if (score >=80 && score <= 100.00) {
             System.out.println("your grad is A.");
         }else
-            System.out.println("Thank You");
+            //coding here
+            System.out.println("Please,Thank You");
 
 
     }//main
